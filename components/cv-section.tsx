@@ -41,7 +41,7 @@ const certifications = [
     fileName: "medical-council-registration.pdf"
   },
   {
-    title: "Continuous Professional Development in Health Systems Management",
+    title: "Continuous Professional Development in Health Systems Management from the University of Washington",
     fileName: "health-systems-management.pdf"
   },
   {

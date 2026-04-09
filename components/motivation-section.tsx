@@ -107,7 +107,7 @@ export function MotivationSection() {
                   <p className="text-base">
                     As the SDG era comes to an end my country Cameroon is not at the level it could be 
                     in terms of the quality and efficiency of health service delivery.My experience in 
-                    clinicalmedcine, health management, and community health are the basis of my passion  
+                    clinical medcine, health management, and community health are the basis of my passion  
                     to make a change.
                   </p>
                 </motion.div>
