@@ -11,14 +11,14 @@ const workExperience = [
     company: "Cabinet Medical Allo Docteur",
     location: "Douala, Cameroon",
     period: "Sep 2025 – Present",
-    description: "Lead recruitment, staffing, and workforce distribution across centers in Douala and Yaoundé. Develop HR policies, ensure labor compliance, and organize training programs for medical and non-medical staff.",
+    description: "Lead recruitment, staffing, and workforce distribution across centers in Douala, Yaoundé, and Abidjan. Develop HR policies, ensure labor compliance, and organize training programs for medical and non-medical staff.",
     current: true
   },
   {
     title: "Medical Doctor & Clinical Coordinator",
     company: "Various Healthcare Facilities",
     location: "Cameroon",
-    period: "2019 – 2025",
+    period: "2021 – 2026",
     description: "Provided direct patient care, coordinated clinical operations, and supervised healthcare teams across multiple facilities.",
     current: false
   },
@@ -214,7 +214,7 @@ export function CVSection() {
                   <div>
                     <h4 className="font-bold text-foreground">Doctor of Medicine (MD)</h4>
                     <p className="text-sm text-muted-foreground">University of Buea, Cameroon</p>
-                    <p className="text-xs text-muted-foreground">2019</p>
+                    <p className="text-xs text-muted-foreground">2015-2022</p>
                   </div>
                   <div className="border-t border-muted pt-4">
                     <h4 className="font-bold text-foreground">General Education Certificate (GCE)</h4>

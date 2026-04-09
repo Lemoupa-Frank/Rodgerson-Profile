@@ -8,7 +8,7 @@ const impactProjects = [
   {
     icon: Heart,
     title: "Community Health Initiative",
-    description: "Established community health worker networks to improve primary care access and patient engagement in rural communities.",
+    description: "Conducted free consultations, medication distribution, and health education talks in low-resource settings, notably Bansoa(West Region) and Buea (South West Region).",
     color: "from-primary to-primary/70",
   },
   {

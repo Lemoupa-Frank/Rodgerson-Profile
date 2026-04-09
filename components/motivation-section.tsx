@@ -105,11 +105,10 @@ export function MotivationSection() {
                 >
                   <Target className="w-6 h-6 text-primary mt-1 shrink-0" />
                   <p className="text-base">
-                    I am most passionate about <strong>health service re-organisation</strong>. 
-                    I believe the models of care presently being implemented in my country, 
-                    Cameroon, aren&apos;t well adapted to the people. Entry points into the health 
-                    system are not properly coordinated, and a lot of Cameroonians have lost 
-                    trust in conventional medicine.
+                    As the SDG era comes to an end my country Cameroon is not at the level it could be 
+                    in terms of the quality and efficiency of health service delivery.My experience in 
+                    clinicalmedcine, health management, and community health are the basis of my passion  
+                    to make a change.
                   </p>
                 </motion.div>
 
